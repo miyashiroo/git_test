@@ -1,0 +1,1 @@
+This is Shirosan’s first git project!
